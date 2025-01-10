@@ -1,8 +1,8 @@
-# Hostel Management System - Backend
+# Hotel Management System - Backend
 
 ## Overview
 
-This is the backend part of the Hostel Management System built using Node.js, Express.js, and MongoDB. The backend handles data management, business logic, authentication, and integration with external services like payment gateways and notification systems.
+This is the backend part of the Hotel Management System built using Node.js, Express.js, and MongoDB. The backend handles data management, business logic, authentication, and integration with external services like payment gateways and notification systems.
 
 ## Features
 
